@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private MapView mapView;
     //test commit
+    //test issue 1 commit
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
