@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Signature</string>
+    <string name="accessToken">pk.eyJ1IjoiY2hlbHNlYWNoZWxzIiwiYSI6ImNpbXJzZGZmazAwNHd3OG0yOWZsNWh3ZHMifQ.s1nsWpOkJZMNt9W5Bgb85g</string>
+    <string name="action_settings">Settings</string>
+</resources>
