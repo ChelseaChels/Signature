@@ -21,9 +21,7 @@ import com.mapbox.mapboxsdk.maps.OnMapReadyCallback;
 public class MainActivity extends AppCompatActivity {
 
     private MapView mapView;
-    //test commit
-    //test issue 1 commit
-    //test issue 2 commit ONE
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
